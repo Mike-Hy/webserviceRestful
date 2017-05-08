@@ -10,7 +10,11 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 import com.webservice.pojo.Student;
 
-
+/**
+ * 
+ * @author Administrator
+ *
+ */
 @Repository
 public class JdbcCorporateEventDao implements CorporateEventDao {
 
