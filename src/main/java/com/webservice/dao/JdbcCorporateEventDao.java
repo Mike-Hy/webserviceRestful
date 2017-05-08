@@ -13,7 +13,7 @@ import com.webservice.pojo.Student;
 /**
  * 
  * @author Administrator
- *
+ *Dao持久层
  */
 @Repository
 public class JdbcCorporateEventDao implements CorporateEventDao {
